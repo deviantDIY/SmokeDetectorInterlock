@@ -12,9 +12,11 @@ limitations under the License.
 
 In addition to the Apache License, Version 2.0 the following restrictions apply:
 
-1) Anyone utilizing these designs assumes full responsibility for their use
-and safe construction.  The authors assume no liability stemming from the use
-of these designs under any circumstances.
+1) Anyone utilizing these designs assumes full responsibility for their use, safe
+construction, and verification that the designs themselves are safe.
 
-2) All consumers of these designs agree to not use them in life critical systems
+2) The authors assume no liability stemming from the use of these designs under
+any circumstances.
+
+3) All consumers of these designs agree to not use them in life critical systems
 or any use where malfunction could result in loss of life.
