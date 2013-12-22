@@ -8,6 +8,8 @@ Please read the LICENSE file before consuming any data here.
 
 **It is strongly recommended that any design be tested before every use**
 
+Schematic files were drawn in the Eagle Layout Editor from cadsoft.de
+
 Example output stage
 --------------------
 
