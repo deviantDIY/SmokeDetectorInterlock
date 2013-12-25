@@ -27,6 +27,7 @@ This schematic diagrams a simple latching interlock circuit for 12V loads.
 Q1, a P-channel FET is the current carrying device for the load.
 When energized resistor R1 holds Q1 in an off state.
 The circuit must be enabled by pressing S1, at which point resistor R5 turns Q1 on energizing the output.
+S1 should obviously be a momentary pushbutton, not an on/off switch.
 Current flows through Q1 and R4 enabling T1.
 When T1 is on, R2 and T1 will hold Q1 in an on state.
 
